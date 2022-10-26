@@ -6,7 +6,6 @@ public class CameraScript : MonoBehaviour
 {
 
     public GameObject target;
-
     
     // Start is called before the first frame update
     void Start()
